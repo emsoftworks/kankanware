@@ -4,3 +4,10 @@ loadstring - ```loadstring(game:HttpGet("https://raw.githubusercontent.com/emsof
 credits
 
 https://github.com/violin-suzutsuki/LinoriaLib
+
+
+
+
+
+# THIS IS A WIP
+# DOSENT WORK FOR NOW, NEED TO FIX SOME STUFF
